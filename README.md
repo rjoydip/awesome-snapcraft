@@ -24,6 +24,7 @@ A curated list of awesome snapcraft apps
 - Deno - `sudo snap install deno`
 - Go - `sudo snap install go --classic`
 - Flutter - `sudo snap install flutter --classic`
+- Ruby - `sudo snap install ruby --classic`
 
 # CLI
 

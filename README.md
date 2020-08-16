@@ -7,7 +7,7 @@ A curated list of awesome snapcraft apps
 
 # Application
 
-- Postman - `sudo snap install postman`
+- Postman - `sudo snap install postman --classic`
 
 # IDE
 
@@ -17,11 +17,12 @@ A curated list of awesome snapcraft apps
 - Eclipse - `sudo snap install eclipse --classic`
 - Notepad++ - `sudo snap install notepad-plus-plus`
 - Sublime - `sudo snap install sublime-text --classic`
+- Brackets - `sudo snap install brackets --classic`
 
 # Language
 
 - Node - `sudo snap install node --classic`
-- Deno - `sudo snap install deno`
+- Deno - `sudo snap install deno --classic`
 - Go - `sudo snap install go --classic`
 - Flutter - `sudo snap install flutter --classic`
 - Ruby - `sudo snap install ruby --classic`
@@ -32,9 +33,11 @@ A curated list of awesome snapcraft apps
 
 # Tools
 
-- Gitter - `sudo snap install gitter-desktop`
-- Docker - `sudo snap install docker`
+- Gitter - `sudo snap install gitter-desktop --classic`
+- Docker - `sudo snap install docker --classic`
+- Zeplin - `sudo snap install zeplin-lukewh --classic` (design tools)
+- Adobe Acrobat Reader (WINE) - `sudo snap install acrordrdc --classic`
 
 # Others
 
-- Spotify - `sudo snap install spotify`
+- Spotify - `sudo snap install spotify --classic`

@@ -5,11 +5,11 @@
 
 A curated list of awesome snapcraft apps [https://snapcraft.io/store](https://snapcraft.io/store)
 
-# Application
+## Application
 
 - Postman - `sudo snap install postman --classic`
 
-# IDE
+## IDE
 
 - Atom - `sudo snap install atom --classic`
 - VSCode - `sudo snap install code --classic`
@@ -19,7 +19,7 @@ A curated list of awesome snapcraft apps [https://snapcraft.io/store](https://sn
 - Sublime - `sudo snap install sublime-text --classic`
 - Brackets - `sudo snap install brackets --classic`
 
-# Language
+## Language
 
 - Node - `sudo snap install node --classic`
 - Deno - `sudo snap install deno --classic`
@@ -27,21 +27,21 @@ A curated list of awesome snapcraft apps [https://snapcraft.io/store](https://sn
 - Flutter - `sudo snap install flutter --classic`
 - Ruby - `sudo snap install ruby --classic`
 
-# CLI
+## CLI
 
 - AWS - `sudo snap install aws-cli --classic`
 
-# Tools
+## Tools
 
 - Gitter - `sudo snap install gitter-desktop --classic`
 - Docker - `sudo snap install docker --classic`
 - Zeplin - `sudo snap install zeplin-lukewh --classic` (design tools)
 - Adobe Acrobat Reader (WINE) - `sudo snap install acrordrdc --classic`
 
-# Social
+## Social
 
 - Discord - `sudo snap install discord --classic`
 
-# Others
+## Others
 
 - Spotify - `sudo snap install spotify --classic`

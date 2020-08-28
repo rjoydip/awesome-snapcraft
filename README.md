@@ -3,7 +3,7 @@
 [![Bower license](https://img.shields.io/bower/l/awesome-badges.svg)](http://bower.io/search/?q=awesome-badges)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome snapcraft apps
+A curated list of awesome snapcraft apps [https://snapcraft.io/store](https://snapcraft.io/store)
 
 # Application
 
@@ -37,6 +37,10 @@ A curated list of awesome snapcraft apps
 - Docker - `sudo snap install docker --classic`
 - Zeplin - `sudo snap install zeplin-lukewh --classic` (design tools)
 - Adobe Acrobat Reader (WINE) - `sudo snap install acrordrdc --classic`
+
+# Social
+
+- Discord - `sudo snap install discord --classic`
 
 # Others
 

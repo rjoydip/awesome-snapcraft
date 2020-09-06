@@ -18,6 +18,7 @@ A curated list of awesome snapcraft apps [https://snapcraft.io/store](https://sn
 - Notepad++ - `sudo snap install notepad-plus-plus`
 - Sublime - `sudo snap install sublime-text --classic`
 - Brackets - `sudo snap install brackets --classic`
+- PhpStorm - `sudo snap install phpstorm --classic`
 
 ## Language
 
@@ -26,6 +27,10 @@ A curated list of awesome snapcraft apps [https://snapcraft.io/store](https://sn
 - Go - `sudo snap install go --classic`
 - Flutter - `sudo snap install flutter --classic`
 - Ruby - `sudo snap install ruby --classic`
+
+## Browser
+
+- Opera Beta - `sudo snap install opera-beta --classic`
 
 ## CLI
 
@@ -41,6 +46,9 @@ A curated list of awesome snapcraft apps [https://snapcraft.io/store](https://sn
 ## Social
 
 - Discord - `sudo snap install discord --classic`
+- Social - `sudo snap install slack --classic`
+- Skype - `sudo snap install slack --classic`
+- Rocket.chat - `sudo snap install rocketchat-desktop --classic`
 
 ## Others
 

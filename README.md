@@ -35,6 +35,7 @@ A curated list of awesome snapcraft apps [https://snapcraft.io/store](https://sn
 ## CLI
 
 - AWS - `sudo snap install aws-cli --classic`
+- HTTPie - `snap install httpie` and `snap refresh httpie` (For update)
 
 ## Tools
 

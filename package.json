@@ -1,0 +1,23 @@
+{
+  "name": "awesome-snapcraft",
+  "version": "1.0.0",
+  "description": "A curated list of awesome snapcraft apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjoydip/awesome-snapcraft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjoydip/awesome-snapcraft/issues"
+  },
+  "homepage": "https://github.com/rjoydip/awesome-snapcraft#readme",
+  "devDependencies": {
+    "awesome-lint": "^0.18.0"
+  }
+}
